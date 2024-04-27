@@ -11,5 +11,6 @@ public class FPS_ProjectTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
 		ExtraModuleNames.Add("FPS_Project");
+		ExtraModuleNames.Add("PlayerFPS");
 	}
 }
